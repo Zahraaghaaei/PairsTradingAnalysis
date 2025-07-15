@@ -1,4 +1,4 @@
-# 📦 Project Title
+# 📦 Pairs Trading Analysis
 
 A brief and concise description of what your project does and why it matters.
 
