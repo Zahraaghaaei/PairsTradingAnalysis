@@ -309,10 +309,13 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-## License
+## 🤝 Contributing
 
-[Specify your license here]
+Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
 
-## Contact
+---
 
-For questions or suggestions, open an issue or contact [Your Name/Email/GitHub].
+## 🌐 Contact
+
+Vacancy – [https://www.linkedin.com/in/zahraaghaei95/](https://www.linkedin.com) – zahraaghaaei@gmail.com  
+Project Link: [https://github.com/Zahraaghaaei/PairsTradingAnalysis](https://github.com/your-username/pairs-trading-strategy)
