@@ -31,9 +31,9 @@ pairs-trading-strategy/
 │   ├── PairsTradingStrategy.py          # Core strategy implementation
 │   └── Trader.py                        # Trade execution simulation
 ├── notebooks/
-│   ├── 1. Finding_Pairs_Organised.ipynb         # Pair selection pipeline
-│   ├── 2. Trading_on_Pairs_Organised.ipynb      # Trading logic on selected pairs
-│   ├── 3. MRP_Organised.ipynb                   # MRP modeling and testing
+│   ├── 1. Finding_Pairs.ipynb         # Pair selection pipeline
+│   ├── 2. Trading_on_Pairs.ipynb      # Trading logic on selected pairs
+│   ├── 3. MRP.ipynb                   # MRP modeling and testing
 │   └── 4. Weighted Pairs Trading Strategy.ipynb # Weighted version of the strategy
 ├── README.md
 └── requirements.txt
