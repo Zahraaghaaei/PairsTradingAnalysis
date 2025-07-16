@@ -47,7 +47,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Zahraaghaaei/PairsTradingAnalysis.git
-cd pairs-trading-strategy
+cd PairsTradingAnalysis
 pip install -r requirements.txt
 ```
 
@@ -88,5 +88,5 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 
 ## 🌐 Contact
 
-Vacancy – [LinkedIn](https://www.linkedin.com) – your.email@example.com  
-Project Link: [https://github.com/your-username/pairs-trading-strategy](https://github.com/your-username/pairs-trading-strategy)
+Vacancy – [https://www.linkedin.com/in/zahraaghaei95/](https://www.linkedin.com) – zahraaghaaei@gmail.com  
+Project Link: [https://github.com/Zahraaghaaei/PairsTradingAnalysis](https://github.com/your-username/pairs-trading-strategy)
