@@ -20,7 +20,7 @@ This project develops a **market-neutral pairs trading strategy** by identifying
 ## 🗃️ Folder Structure
 
 ```bash
-pairs-trading-strategy/
+PairsTradingAnalysis/
 ├── Data/
 │   ├── new_pickle/                      # Saved intermediate objects
 │   ├── Prices.xlsx                      # Raw stock prices
