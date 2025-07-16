@@ -9,13 +9,16 @@ This repository contains a comprehensive implementation of various pairs trading
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Running the Notebooks](#running-the-notebooks)
-- [Key Classes](#key-classes)
 - [Strategies Implemented](#strategies-implemented)
   - [Finding Pairs](#1-finding-pairs-1-finding_pairsipynb)
   - [Threshold Pairs Trading Strategy](#2-threshold-pairs-trading-strategy-2-trading_on_pairsipynb)
   - [Mean Reverting Portfolio (MRP) Strategy](#3-mean-reverting-portfolio-mrp-strategy-3-mrpipynb)
   - [Weighted Pairs Trading Strategy](#4-weighted-pairs-trading-strategy-4-weighted_pairs_trading_strategyipynb)
+- [Key Classes](#key-classes)
+  - [DataProcessor.py](#1-finding-pairs-1-finding_pairsipynb)
+  - [PairsTradingStrategy.py](#1-finding-pairs-1-finding_pairsipynb)
+  - [Trader.py](#1-finding-pairs-1-finding_pairsipynb)
+  - [MRP.py](#1-finding-pairs-1-finding_pairsipynb)
 - [Data](#data)
 - [Requirements](#requirements)
 - [License](#license)
@@ -71,8 +74,6 @@ pip install -r requirements.txt
 The project workflow is primarily driven by the Jupyter notebooks located in the `notebooks/` directory. These notebooks should be run in the specified order to ensure proper data flow and strategy execution
 
 ## Strategies Implemented
-
----
 
 ### 1. Finding Pairs (`1. Finding_Pairs.ipynb`)
 
@@ -209,9 +210,7 @@ This command will open a browser window with the Jupyter interface, from which y
 
 The `classes/` directory contains modular Python scripts that encapsulate core functionalities:
 
----
-
-### `DataProcessor.py`
+### 1. `DataProcessor.py`
 
 - **Data Preparation:**  
   `split_data()`, `remove_tickers_with_nan()`
@@ -230,7 +229,7 @@ The `classes/` directory contains modular Python scripts that encapsulate core f
 
 ---
 
-### `PairsTradingStrategy.py`  
+### 2. `PairsTradingStrategy.py`  
 *(Note: This file is assumed to include or relate to `PairsTradingPortfolio` as referenced in the weighted strategy notebook.)*
 
 - **Core Functionality:**  
@@ -249,7 +248,7 @@ The `classes/` directory contains modular Python scripts that encapsulate core f
 
 ---
 
-### `Trader.py`  
+### 3. `Trader.py`  
 *(Note: Used in `2. Trading_on_Pairs.ipynb`, likely via `Trader.Trading()`.)*
 
 - **Core Functionality:**  
@@ -269,7 +268,7 @@ The `classes/` directory contains modular Python scripts that encapsulate core f
 
 ---
 
-### `MRP.py`
+### 4. `MRP.py`
 
 - **Portfolio Optimization:**  
   Implements an advanced optimization framework for constructing mean-reverting portfolios using the **Majorization-Minimization (MM)** algorithm
