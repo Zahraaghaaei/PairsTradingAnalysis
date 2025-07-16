@@ -316,5 +316,5 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 
 ## Contact
 
-Vacancy – [https://www.linkedin.com/in/zahraaghaei95/](https://www.linkedin.com) – zahraaghaaei@gmail.com  
+LinkedIn – [https://www.linkedin.com/in/zahraaghaei95/](https://www.linkedin.com) – zahraaghaaei@gmail.com  
 Project Link: [https://github.com/Zahraaghaaei/PairsTradingAnalysis](https://github.com/your-username/pairs-trading-strategy)
