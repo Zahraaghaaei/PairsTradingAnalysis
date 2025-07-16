@@ -46,7 +46,7 @@ pairs-trading-strategy/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/pairs-trading-strategy.git
+git clone https://github.com/Zahraaghaaei/PairsTradingAnalysis.git
 cd pairs-trading-strategy
 pip install -r requirements.txt
 ```
@@ -57,9 +57,9 @@ pip install -r requirements.txt
 
 Start with the following notebooks in order:
 
-1. `1. Finding_Pairs_Organised.ipynb` – Data processing, clustering, cointegration
-2. `2. Trading_on_Pairs_Organised.ipynb` – Apply trading logic
-3. `3. MRP_Organised.ipynb` – Build and evaluate MRPs
+1. `1. Finding_Pairs.ipynb` – Data processing, clustering, cointegration
+2. `2. Trading_on_Pairs.ipynb` – Apply trading logic
+3. `3. MRP.ipynb` – Build and evaluate MRPs
 4. `4. Weighted Pairs Trading Strategy.ipynb` – Enhanced strategy with weight adjustments
 
 ---
