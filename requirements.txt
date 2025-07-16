@@ -9,9 +9,12 @@
 \f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 pandas\
 numpy\
+pandas\
 scikit-learn\
+keras\
 matplotlib\
 seaborn\
 statsmodels\
+scipy\
 openpyxl\
 }
