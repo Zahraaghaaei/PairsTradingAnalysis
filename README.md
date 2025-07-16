@@ -15,14 +15,14 @@ This repository contains a comprehensive implementation of various pairs trading
   - [Mean Reverting Portfolio (MRP) Strategy](#3-mean-reverting-portfolio-mrp-strategy-3-mrpipynb)
   - [Weighted Pairs Trading Strategy](#4-weighted-pairs-trading-strategy-4-weighted_pairs_trading_strategyipynb)
 - [Key Classes](#key-classes)
-  - [DataProcessor.py](#1-finding-pairs-1-finding_pairsipynb)
-  - [PairsTradingStrategy.py](#1-finding-pairs-1-finding_pairsipynb)
-  - [Trader.py](#1-finding-pairs-1-finding_pairsipynb)
-  - [MRP.py](#1-finding-pairs-1-finding_pairsipynb)
+  - [DataProcessor.py](#1-DataProcessorpy)
+  - [PairsTradingStrategy.py](#2-PairsTradingStrategypy)
+  - [Trader.py](#3-Traderpy)
+  - [MRP.py](#4-MRP.py)
 - [Data](#data)
 - [Requirements](#requirements)
-- [License](#license)
-- [Contact](#contact)
+- [Contributing](#Contributing)
+- [Contact](#Contact)
 
 ## Project Overview
 
