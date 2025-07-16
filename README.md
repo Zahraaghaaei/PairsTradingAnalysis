@@ -18,7 +18,7 @@ This repository contains a comprehensive implementation of various pairs trading
   - [DataProcessor.py](#1-DataProcessorpy)
   - [PairsTradingStrategy.py](#2-PairsTradingStrategypy)
   - [Trader.py](#3-Traderpy)
-  - [MRP.py](#4-MRP.py)
+  - [MRP.py](#4-MRPpy)
 - [Data](#data)
 - [Requirements](#requirements)
 - [Contributing](#Contributing)
@@ -308,13 +308,13 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
 
 ---
 
-## 🌐 Contact
+## Contact
 
 Vacancy – [https://www.linkedin.com/in/zahraaghaei95/](https://www.linkedin.com) – zahraaghaaei@gmail.com  
 Project Link: [https://github.com/Zahraaghaaei/PairsTradingAnalysis](https://github.com/your-username/pairs-trading-strategy)
